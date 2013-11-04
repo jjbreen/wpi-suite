@@ -19,6 +19,5 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/John/Documents/GitHub/wpi-suite/Core/WPISuite/WebContent/WEB-INF/lib/Calender.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
